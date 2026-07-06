@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0001-two-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
