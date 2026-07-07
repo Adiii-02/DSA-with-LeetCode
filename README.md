@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0867-transpose-matrix](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0344-reverse-string) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
