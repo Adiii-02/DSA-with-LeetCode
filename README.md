@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
