@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0766-toeplitz-matrix](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
