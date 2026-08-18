@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Adiii-02/DSA-with-LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
